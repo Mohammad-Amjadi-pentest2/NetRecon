@@ -17,7 +17,7 @@
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/pentest2/NetRecon.git
+git clone https://github.com/Mohammad-Amjadi-pentest2/NetRecon.git
 cd NetRecon
 python netrecon.py -t 192.168.1.1
 python netrecon.py -t 10.0.0.1 -p 1-65535 --threads 200 -o report.json
